@@ -27,7 +27,8 @@
     "react-dom": "^18",
     "react-latex-next": "^2.2.0",
     "tailwind-merge": "^2.2.1",
-    "tailwindcss-animate": "^1.0.7"
+    "tailwindcss-animate": "^1.0.7",
+    "@vercel/analytics": "^1.5.0"
   },
   "devDependencies": {
     "@types/katex": "^0.16.7",

@@ -28,6 +28,7 @@ export default function RootLayout({
           {children}
           <Analytics />
         </ThemeProvider>
+              <script defer src="/_vercel/insights/script.js" />
       </body>
     </html>
   );
